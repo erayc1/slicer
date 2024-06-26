@@ -1,0 +1,3 @@
+/Users/eraycenan/Desktop/slicer/build/CMakeFiles/DentalSlicer.dir
+/Users/eraycenan/Desktop/slicer/build/CMakeFiles/edit_cache.dir
+/Users/eraycenan/Desktop/slicer/build/CMakeFiles/rebuild_cache.dir

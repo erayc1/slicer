@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/eraycenan/Desktop/slicer/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk/System/Library/Frameworks -isystem /opt/homebrew/include -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.sdk/System/Library/Frameworks  -o CMakeFiles/DentalSlicer.dir/main.cpp.o -c /Users/eraycenan/Desktop/slicer/main.cpp",
+  "file": "/Users/eraycenan/Desktop/slicer/main.cpp",
+  "output": "CMakeFiles/DentalSlicer.dir/main.cpp.o"
+}
+]
